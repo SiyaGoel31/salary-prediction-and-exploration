@@ -27,7 +27,7 @@ Explore Trends: Use the built-in charts to see how different factors influence d
 
 🚀 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/salary-prediction-app.git
+Clone the repository: git clone https://github.com/your-username/salary-prediction-and-exploration-app.git
 Install dependencies: pip install -r requirements.txt
 Run the app: streamlit run app.py
 Explore your salary: Visit http://localhost:8501 to use the app and explore!
